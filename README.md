@@ -1,5 +1,4 @@
 # Versions 1.0 Release
-team 31 project 1 
 
 A deep learning project that makes use of the EMNIST dataset to predict user's hand drawn letter. 
 
